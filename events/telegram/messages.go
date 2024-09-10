@@ -10,8 +10,8 @@ Caution! After that, this page will be removed from your list`
 const msgHello = "Hi there!✋ \n\n" + msgHelp
 
 const (
-	msgUnknownCommand = "Неизвестная команда 😕"
-	msgNoSavedPages   = "У вас нет сохраненных ссылок 🧐"
+	msgUnknownCommand = "Неизвестная команда! 😕"
+	msgNoSavedPages   = "У вас нет сохраненных ссылок! 🧐"
 	msgSaved          = "Сохранено!👌"
 	msgAlreadyExists  = "Эта ссылка уже итак сохранена в вашем листе!🙂"
 )
