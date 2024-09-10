@@ -16,7 +16,15 @@ const (
 	batchSize   = 100
 )
 
-//730142777:AAE00lPQDOWUC4OmUTYedOLR-1HVLkclCus
+/*
+
+7430142777:AAE00lPQDOWUC4OmUTYedOLR-1HVLkclCus
+
+go build in terminal
+
+./test -tg-bot-token '7430142777:AAE00lPQDOWUC4OmUTYedOLR-1HVLkclCus'
+
+*/
 
 func main() {
 
